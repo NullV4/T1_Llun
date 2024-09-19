@@ -114,10 +114,7 @@ function App() {
             <p>Telefono</p>
             <input name="ape" onChange={handleChange4}/>
           </label>
-          <label>
-            <p>Direccion</p>
-            <input name="name" onChange={handleChange5}/>
-          </label>
+         
           
         </fieldset>
         <button type="submit">Submit</button>
